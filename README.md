@@ -5,4 +5,3 @@ I'm interested in becoming a software engineer, and am currently trying to find 
 
 I'm hoping to expand my knowledge on how to develop useful applications/devices using things I've learned about software engineering. 
 
-Search my name up on LinkedIn, or even Facebook to reach out to me!
