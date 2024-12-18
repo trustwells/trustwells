@@ -1,5 +1,5 @@
 
-Hi! My name is Trust Wells and I'm a current student of Computer Science student at the University of Nebraska-Lincoln. 
+Hi! My name is Trust Wells and I'm a student studying Computer Science at the University of Nebraska-Lincoln. 
 
 I'm interested in becoming a software engineer, and am currently trying to find my first internship. I have learned C#/.NET, Python, Java, SQL, HTML, CSS, Data Structures & Algorithms, and more!
 
