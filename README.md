@@ -1,6 +1,6 @@
 
 Hi! My name is Trust Wells and I'm a student studying Computer Science at the University of Nebraska-Lincoln. 
 
-I'm interested in becoming a software engineer, and am currently trying to find my first internship. I have learned to some extent in each: C, C#/.NET, Python, Java, Javascript, SQL, HTML, CSS, Data Structures & Algorithms, and more!
+I'm currently a Software QA / Software Engineering Intern at Opendorse. My most experience consists with C#/.NET and React. I am currently pursuing any field in respect to SWE right now, but have found a new interest in low latency computing consisting of C++. Along with coding skills, I do keep up to date with common System Design standards in the .NET space such as Architecture patterns, Microservices, etc. 
 
-I have great interest in platform engineering, web dev, systems programming, devops, and much more!
+Reach out to me via my website at trustwells.com !!
